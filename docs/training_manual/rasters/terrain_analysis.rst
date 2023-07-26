@@ -100,7 +100,7 @@ Remember to save the project when you are done.
 
 Think back to the estate agent problem, which we last addressed in the
 *Vector Analysis* lesson.
-Let us imagine that the buyers now wish to purchase a building and
+Let us imagine that the buyers now wish to purchase a plot of land and
 build a smaller cottage on the property.
 In the Southern Hemisphere, we know that an ideal plot for development
 needs to have areas on it that:
